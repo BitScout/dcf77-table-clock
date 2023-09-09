@@ -27,8 +27,8 @@
 #define BITCOUNT 58
 
 #define LEDSPIN  6
-#define LEDCOUNT 144
-#define LED_OFFSET 143
+#define LEDCOUNT 60
+#define LED_OFFSET 59
 
 bool debug = true;
 
